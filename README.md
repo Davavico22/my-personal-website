@@ -71,5 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Modulos adiccionales usados
 
 Typical: https://github.com/catalinmiron/react-typical
+
 React-router-dom: https://reactrouter.com/web/guides/quick-start
+
 Icomoon: https://www.npmjs.com/package/react-icomoon
