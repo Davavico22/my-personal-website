@@ -1,0 +1,55 @@
+*{
+ background-color: #5E5E5E;
+}
+
+.Home {
+    text-align: center;
+    height: 80vh;
+}
+
+.Home-logo {
+    height: 40vmin;
+    border-radius: 50%;
+    pointer-events: none;
+    margin-bottom: 50px;
+    border: 1mm solid #572364;
+}
+
+.Sub-nombre{
+    text-decoration-color: #572364;
+}
+
+.Home-header {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: calc(10px + 2vmin);
+    color: black;
+    padding: 6vh;
+}
+
+.Home-link {
+    color: #61dafb;
+}
+
+
+.List-social {
+    padding-left: 0;
+    list-style: none;
+}
+
+.List-social ul {
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: 0px;
+}
+
+.List-social li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 7px;
+}
