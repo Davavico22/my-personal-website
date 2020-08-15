@@ -2,6 +2,7 @@ import React from 'react';
 import './Home.css';
 import Typical from 'react-typical'
 import Icon from '../../Component/Icon/Icon';
+import { NavLink } from 'react-router-dom';
 
 function Home() {
     return (
@@ -43,9 +44,9 @@ function Home() {
               </a>
             </li>
             <li>
-              <a title="CV"  href="http://localhost:3000/resume" target="_blank">
+              <NavLink to={"/resume"} title="CV"   target="_blank">
                 <Icon size="75px" color="#572364" icon="profile" />
-              </a>
+              </NavLink>
             </li>
             <li>
               <a title="Instagram" href="https://www.instagram.com/davavico/" target="_black">
