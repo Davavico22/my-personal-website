@@ -43,6 +43,11 @@ function Home() {
               </a>
             </li>
             <li>
+              <a title="CV"  href="http://localhost:3000/resume" target="_blank">
+                <Icon size="75px" color="#572364" icon="profile" />
+              </a>
+            </li>
+            <li>
               <a title="Instagram" href="https://www.instagram.com/davavico/" target="_black">
                 <Icon  size="75px" color="#572364" icon="instagram" />
               </a>
@@ -52,6 +57,7 @@ function Home() {
                 <Icon size="75px" color="#572364" icon="mail4" />
               </a>
             </li>
+            
           </ul>
         </header>
       </div>
