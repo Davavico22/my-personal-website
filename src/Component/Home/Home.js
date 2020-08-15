@@ -33,23 +33,23 @@ function Home() {
           <br></br>
           <ul class="List-social">
             <li>
-              <a href="https://www.linkedin.com/in/david-valdivia-davavico/" target="_black">
+              <a title="Linkedin" href="https://www.linkedin.com/in/david-valdivia-davavico/" target="_black">
                 <Icon  size="75px" color="#572364" icon="linkedin" />
               </a>
             </li>
             <li>
-              <a href="https://github.com/Davavico22" target="_black">
+              <a title="GitHub" href="https://github.com/Davavico22" target="_black">
                 <Icon  size="75px" color="#572364" icon="github" />
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/davavico/" target="_black">
+              <a title="Instagram" href="https://www.instagram.com/davavico/" target="_black">
                 <Icon  size="75px" color="#572364" icon="instagram" />
               </a>
             </li>
             <li>
-              <a href="mailto:davalvico@gmail.com">
-                <Icon  size="75px" color="#572364" icon="mail4" />
+              <a title="Mail" href="mailto:davalvico@gmail.com">
+                <Icon size="75px" color="#572364" icon="mail4" />
               </a>
             </li>
           </ul>
