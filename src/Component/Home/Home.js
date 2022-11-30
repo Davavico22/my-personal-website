@@ -22,7 +22,7 @@ function Home() {
                 900,
                 'computer engineer.',
                 900,
-                'athletic person.',
+                'n athletic person.',
                 900,
                 'lover of technology.',
                 900,
