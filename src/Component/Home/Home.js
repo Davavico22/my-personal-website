@@ -7,10 +7,8 @@ import { NavLink } from 'react-router-dom';
 function Home() {
     return (
       <div className="Home">
-  
         <header className="Home-header">
           <img src="https://avatars0.githubusercontent.com/u/57295165?s=400&u=e12594f20ed0f40e56be958eb12622e04e4f1854&v=4" className="Home-logo" alt="logo" />
-  
           <h2>Hi, I´m <u className="Sub-nombre">David Valdivia Vico</u>.</h2>
           <p>
             I´m a{' '}
