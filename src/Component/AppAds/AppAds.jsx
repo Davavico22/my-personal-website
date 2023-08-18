@@ -17,7 +17,7 @@ const AppAdsTxt = () => {
     }, []);
     console.log(content);
 
-    return <div>{content}</div>;
+    return <pre>{content}</pre>;
     
 };
 export default AppAdsTxt;
