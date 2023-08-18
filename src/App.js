@@ -15,6 +15,7 @@ function App() {
         <Route exact path='/' element = {<Home/>}/>
         <Route exact path='/resume' element = {<Resume/>} />
         <Route exact path='/app' element = {<AppAdsTxt/>}/>
+        <Route exact path='/verificacion' element = {<VerificacionTxt/>}/>
         <Route element = {<PageNotFound/>}/>
       </Routes>
     </BrowserRouter>

@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import AppAds from "../../data/app-ads.txt";
+import GoogleVerification from "../../data/googlea0baaab2e34efdc3.html";
 
-const AppAdsTxt = () => {
+const VerificacionTxt = () => {
     const [content, setContent] = useState("");
 
     useEffect(() => {
         axios
-        .get(AppAds)
+        .get(GoogleVerification)
         .then((response) => {
             setContent(response.data);
         })
@@ -20,4 +20,4 @@ const AppAdsTxt = () => {
     return <div>{content}</div>;
     
 };
-export default AppAdsTxt;
+export default VerificacionTxt;
