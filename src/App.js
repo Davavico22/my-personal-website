@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route exact path='/' element = {<Home/>}/>
         <Route exact path='/resume' element = {<Resume/>} />
-        <Route exact path='/app' element = {<AppAdsTxt/>}/>
+        <Route exact path='/app-ads.txt' element = {<AppAdsTxt/>}/>
         <Route element = {<PageNotFound/>}/>
       </Routes>
     </BrowserRouter>
